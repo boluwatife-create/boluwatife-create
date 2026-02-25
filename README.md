@@ -1,6 +1,6 @@
 # Hi, I am Boluwatife
 
-I am a Data Analyst and aspiring Machine Learning Engineer focused on solving real-world problems using data.
+I am a Data Analyst and aspiring Machine Learning / AI Engineer focused on solving real-world problems using data.
 
 ## What I Do
   Data Analysis and Visualization
