@@ -3,9 +3,9 @@
 I am a Data Analyst and aspiring Machine Learning / AI Engineer focused on solving real-world problems using data.
 
 ## What I Do
-  Data Analysis and Visualization
-  Python Programming
-  Building Practical Applications
+  Data Analysis and Visualization||
+  Python Programming ||
+  Building Practical Applications ||
   Learning Machine Learning and AI Engineering
 
   ## Projects
